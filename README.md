@@ -9,6 +9,14 @@ Some ways you might use this list:
 
 We don't care how you use the list. That's up to you.
 
-If you're going to use this list in a production environment consider using `git clone https://github.com/packetstream/disposable-email-domains` or `wget https://github.com/packetstream/disposable-email-domains/emails.txt` to your CI/CD pipeline for an up-to-date list.
+If you're going to use this list in a production environment consider using 
+
+`git clone https://github.com/packetstream/disposable-email-domains`
+
+or
+
+`wget https://github.com/packetstream/disposable-email-domains/emails.txt`
+
+to your CI/CD pipeline for an up-to-date list.
 
 Feel free submit a pull requests to contribute new domains or ammend any inaccuracies.
