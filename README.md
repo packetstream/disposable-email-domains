@@ -15,7 +15,7 @@ If you're going to use this list in a production environment consider using
 
 or
 
-`wget https://github.com/packetstream/disposable-email-domains/emails.txt`
+`wget https://raw.githubusercontent.com/packetstream/disposable-email-domains/master/emails.txt`
 
 to your CI/CD pipeline for an up-to-date list.
 
